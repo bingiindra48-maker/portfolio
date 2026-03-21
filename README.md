@@ -40,7 +40,7 @@ I am eager to learn new technologies and work on real-world applications.
 ---
 
 ## 🌐 Live Portfolio
-👉 **[Click Here to View My Portfolio](https://bingiindra48.github.io/portfolio)**
+👉 **[Click Here to View My Portfolio](https://bingiindra48-maker.github.io/portfolio)**
 
 ---
 
